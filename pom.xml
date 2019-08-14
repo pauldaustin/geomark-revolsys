@@ -9,7 +9,7 @@
   <artifactId>com.revolsys.open.parent</artifactId>
   <packaging>pom</packaging>
   <name>Revolution Systems Open Library</name>
-  <version>TRUNK-SNAPSHOT</version>
+  <version>0.GEOMARK-6.0.0-SNAPSHOT</version>
   <description>The parent module of the Revolution Systems Open Library.</description>
   <url>http://revolsys.github.com/com.revolsys.open/</url>
 
@@ -49,13 +49,13 @@
     <module>com.revolsys.open.core</module>
     <module>com.revolsys.open.testapi</module>
     <module>com.revolsys.open.doclet</module>
-    <module>com.revolsys.open.fgdb</module>
-    <module>com.revolsys.open.gdal</module>
-    <module>com.revolsys.open.geopackage</module>
+    
+    
+    
     <module>com.revolsys.open.oracle</module>
     <module>com.revolsys.open.postgresql</module>
-    <module>com.revolsys.open.maki</module>
-    <module>com.revolsys.open.swing</module>
+    
+    
     <module>com.revolsys.open.web</module>
     <module>war-overlay</module>
   </modules>
@@ -535,7 +535,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <org.apache.log4j.version>2.12.0</org.apache.log4j.version>
     <org.gdal.version>2.4.0</org.gdal.version>
-    <org.jeometry.version>TRUNK-SNAPSHOT</org.jeometry.version>
+    <org.jeometry.version>0.GEOMARK-6.0.0-SNAPSHOT</org.jeometry.version>
     <org.slf4j.version>1.7.26</org.slf4j.version>
     <org.springframework.version>5.1.6.RELEASE</org.springframework.version>
     <org.springframework.security.version>5.1.5.RELEASE</org.springframework.security.version>
