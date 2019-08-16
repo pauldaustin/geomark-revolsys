@@ -7,7 +7,7 @@
   <parent>
     <groupId>com.revolsys.open</groupId>
     <artifactId>com.revolsys.open.parent</artifactId>
-    <version>0.GEOMARK-6.0.0-SNAPSHOT</version>
+    <version>0.GEOMARK-6.0.0-RELEASE</version>
   </parent>
   <artifactId>war-overlay</artifactId>
   <packaging>war</packaging>
