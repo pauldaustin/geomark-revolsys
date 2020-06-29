@@ -9,7 +9,7 @@
   <parent>
     <artifactId>revolsys-parent</artifactId>
     <groupId>com.revolsys.open</groupId>
-    <version>TRUNK-SNAPSHOT</version>
+    <version>0.GEOMARK-6.0.0-SNAPSHOT</version>
   </parent>
   <licenses>
     <license>
